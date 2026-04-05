@@ -455,6 +455,7 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 - [exchange_calendars](https://github.com/gerrymanoim/exchange_calendars) - `Python` - Stock Exchange Trading Calendars.
 - [bizdays](https://github.com/wilsonfreitas/python-bizdays) - `Python` - Business days calculations and utilities.
 - [pandas_market_calendars](https://github.com/rsheftel/pandas_market_calendars) - `Python` - Exchange calendars to use with pandas for trading applications.
+- [Headless Oracle](https://headlessoracle.com) - `REST/MCP` - Signed market status oracle for 28 global exchanges. Ed25519-signed receipts with 60-second TTL and fail-closed UNKNOWN state. MCP server for Claude/Cursor
 - [timeDate](https://cran.r-project.org/web/packages/timeDate/index.html) - `R` - Chronological and Calendar Objects.
 - [bizdays](https://github.com/wilsonfreitas/R-bizdays) - `R` - Business days calculations and utilities.
 
